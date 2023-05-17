@@ -10,23 +10,20 @@ async function populate() {
 }
 
 function time_table(obj) {
-    const section = document.querySelector('day');
+    const section = document.querySelector('.day');
     const tables = obj;
+    for (const table of tables) {
+        const myArticle = document.createElement('article');
 
-    const myArticle = document.createElement('article');
-
-    const myH1 = document.createElement('h1');
-    myH1.textContent = `day_name: ${tables.day_name}`;
-
-    const tables_day_main = tables.day_main;
-
-    for (const line of tables_day_main) {
+        const myH1 = document.createElement('h1');
         const myPara1 = document.createElement('p');
         const myPara2 = document.createElement('p');
         const myPara3 = document.createElement('p');
         const myPara4 = document.createElement('p');
         const myPara5 = document.createElement('p');
         const myPara6 = document.createElement('p');
+
+        myH1.textContent = `day_name: ${table.day_name}`;
 
         myPara1.textContent = `name: ${line.name}`;
         myPara2.textContent = `teacher: ${line.teacher}`;
@@ -43,5 +40,6 @@ function time_table(obj) {
         myArticle.appendChild(myPara6);
 
         section.appendChild(myArticle);
+
     }
 }
