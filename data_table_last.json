@@ -1,7 +1,19 @@
 [
     {
-        "day_name": "time/day",
         "day_main": [
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "time/day",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
             {
                 "number": "I",
                 "main": [
@@ -9,9 +21,9 @@
                         "name": "I限",
                         "teacher": "9:00",
                         "room": "10:30",
-                        "book": "book",
-                        "teams": "teams",
-                        "moodle": "moodle"
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
                     }
                 ]
             },
@@ -22,9 +34,9 @@
                         "name": "II限",
                         "teacher": "10:40",
                         "room": "12:10",
-                        "book": "book",
-                        "teams": "teams",
-                        "moodle": "moodle"
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
                     }
                 ]
             },
@@ -35,9 +47,9 @@
                         "name": "III限",
                         "teacher": "13:00",
                         "room": "14:30",
-                        "book": "book",
-                        "teams": "teams",
-                        "moodle": "moodle"
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
                     }
                 ]
             },
@@ -48,17 +60,20 @@
                         "name": "IV限",
                         "teacher": "14:40",
                         "room": "16:10",
-                        "book": "book",
-                        "teams": "teams",
-                        "moodle": "moodle"
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "day_name": "月",
-        "day_main": [
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "月"
+                    }
+                ]
+            },
             {
                 "number": "I",
                 "main": [
@@ -110,12 +125,15 @@
                         "moodle": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "day_name": "火",
-        "day_main": [
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "火"
+                    }
+                ]
+            },
             {
                 "number": "I",
                 "main": [
@@ -167,12 +185,15 @@
                         "moodle": "https://cms.aitech.ac.jp/course/view.php?id=3870"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "day_name": "水",
-        "day_main": [
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "水"
+                    }
+                ]
+            },
             {
                 "number": "I",
                 "main": [
@@ -224,12 +245,15 @@
                         "moodle": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "day_name": "木",
-        "day_main": [
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "木"
+                    }
+                ]
+            },
             {
                 "number": "I",
                 "main": [
@@ -281,12 +305,15 @@
                         "moodle": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "day_name": "金",
-        "day_main": [
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "金"
+                    }
+                ]
+            },
             {
                 "number": "I",
                 "main": [
