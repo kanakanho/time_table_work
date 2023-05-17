@@ -1,5 +1,62 @@
 [
     {
+        "day_name": "time/day",
+        "day_main": [
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "I限",
+                        "teacher": "9:00",
+                        "room": "10:30",
+                        "book": "book",
+                        "teams": "teams",
+                        "moodle": "moodle"
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "II限",
+                        "teacher": "10:40",
+                        "room": "12:10",
+                        "book": "book",
+                        "teams": "teams",
+                        "moodle": "moodle"
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "III限",
+                        "teacher": "13:00",
+                        "room": "14:30",
+                        "book": "book",
+                        "teams": "teams",
+                        "moodle": "moodle"
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "IV限",
+                        "teacher": "14:40",
+                        "room": "16:10",
+                        "book": "book",
+                        "teams": "teams",
+                        "moodle": "moodle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "day_name": "月",
         "day_main": [
             {
