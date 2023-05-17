@@ -1,6 +1,6 @@
 async function populate() {
 
-    const requestURL = 'https://raw.githubusercontent.com/kanakanho/time_table_work/main/data_table_last.json?token=GHSAT0AAAAAACBJ2JQFAFXRJN53ZX6TIGJ2ZDEFUSA';
+    const requestURL = '/kanakanho/time_table_work/raw/main/data_table_last.json';
     const request = new Request(requestURL);
 
     const response = await fetch(request);
