@@ -1,55 +1,47 @@
 async function populate() {
 
-    const requestURL = 'https://raw.githubusercontent.com/kanakanho/sirabasu/main/data_table.json';
+    const requestURL = 'https://raw.githubusercontent.com/kanakanho/time_table_work/main/data_table_last.json?token=GHSAT0AAAAAACBJ2JQFAFXRJN53ZX6TIGJ2ZDEFUSA';
     const request = new Request(requestURL);
 
     const response = await fetch(request);
     const table = await response.json();
 
-    populateHeader(table);
-    populateHeroes(table);
+    time_table(table);
 }
-function populateHeader(obj) {
-    const header = document.querySelector('header');
+
+function time_table(obj) {
+    const section = document.querySelector('day');
+    const tables = obj;
+
+    const myArticle = document.createElement('article');
+
     const myH1 = document.createElement('h1');
-    myH1.textContent = obj.squadName;
-    header.appendChild(myH1);
+    myH1.textContent = `day_name: ${tables.day_name}`;
 
-    const myPara = document.createElement('p');
-    myPara.textContent = `Hometown: ${obj.homeTown} // Formed: ${obj.formed}`;
-    header.appendChild(myPara);
-}
-function populateHeroes(obj) {
-    const section = document.querySelector('section');
-    const heroes = obj.members;
+    const tables_day_main = tables.day_main;
 
-    for (const hero of heroes) {
-        const myArticle = document.createElement('article');
-        const myH2 = document.createElement('h2');
+    for (const line of tables_day_main) {
         const myPara1 = document.createElement('p');
         const myPara2 = document.createElement('p');
         const myPara3 = document.createElement('p');
-        const myList = document.createElement('ul');
+        const myPara4 = document.createElement('p');
+        const myPara5 = document.createElement('p');
+        const myPara6 = document.createElement('p');
 
-        myH2.textContent = hero.name;
-        myPara1.textContent = `Secret identity: ${hero.secretIdentity}`;
-        myPara2.textContent = `Age: ${hero.age}`;
-        myPara3.textContent = 'Superpowers:';
+        myPara1.textContent = `name: ${line.name}`;
+        myPara2.textContent = `teacher: ${line.teacher}`;
+        myPara3.textContent = `room: ${line.room}`;
+        myPara4.textContent = `book: ${line.book}`;
+        myPara5.textContent = `teams: ${line.teams}`;
+        myPara6.textContent = `moodle: ${line.moodle}`;
 
-        const superPowers = hero.powers;
-        for (const power of superPowers) {
-            const listItem = document.createElement('li');
-            listItem.textContent = power;
-            myList.appendChild(listItem);
-        }
-
-        myArticle.appendChild(myH2);
         myArticle.appendChild(myPara1);
         myArticle.appendChild(myPara2);
         myArticle.appendChild(myPara3);
-        myArticle.appendChild(myList);
+        myArticle.appendChild(myPara4);
+        myArticle.appendChild(myPara5);
+        myArticle.appendChild(myPara6);
 
         section.appendChild(myArticle);
     }
 }
-populate();
