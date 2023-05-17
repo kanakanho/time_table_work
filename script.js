@@ -11,11 +11,10 @@ async function populate() {
 
 function time_table(obj) {
     const section = document.querySelector('.day');
-    const tables = obj;
-    for (const table of tables) {
+    const tables = obj.day_main;
+    for (const box of tables) {
         const myArticle = document.createElement('article');
 
-        const myH1 = document.createElement('h1');
         const myPara1 = document.createElement('p');
         const myPara2 = document.createElement('p');
         const myPara3 = document.createElement('p');
@@ -23,14 +22,12 @@ function time_table(obj) {
         const myPara5 = document.createElement('p');
         const myPara6 = document.createElement('p');
 
-        myH1.textContent = `day_name: ${table.day_name}`;
-
-        myPara1.textContent = `name: ${line.name}`;
-        myPara2.textContent = `teacher: ${line.teacher}`;
-        myPara3.textContent = `room: ${line.room}`;
-        myPara4.textContent = `book: ${line.book}`;
-        myPara5.textContent = `teams: ${line.teams}`;
-        myPara6.textContent = `moodle: ${line.moodle}`;
+        myPara1.textContent = `name: ${box.name}`;
+        myPara2.textContent = `teacher: ${box.teacher}`;
+        myPara3.textContent = `room: ${box.room}`;
+        myPara4.textContent = `book: ${box.book}`;
+        myPara5.textContent = `teams: ${box.teams}`;
+        myPara6.textContent = `moodle: ${box.moodle}`;
 
         myArticle.appendChild(myPara1);
         myArticle.appendChild(myPara2);
