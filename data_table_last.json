@@ -5,7 +5,7 @@
                 "number": "0",
                 "main": [
                     {
-                        "name": "time/day",
+                        "name": "",
                         "teacher": "",
                         "room": "",
                         "book": "",
@@ -107,7 +107,7 @@
                         "name": "情報社会及び情報倫理",
                         "teacher": "中村 栄治",
                         "room": "G2110",
-                        "book": "コピペと言われないレポート学生時代に学びたい情報倫理",
+                        "book": "コピペと言われないレポート</p><br><p>学生時代に学びたい情報倫理",
                         "teams": "",
                         "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4020"
                     }
