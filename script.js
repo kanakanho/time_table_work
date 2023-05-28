@@ -1,5 +1,6 @@
 async function populate() {
-    const requestURL = 'https://raw.githubusercontent.com/kanakanho/time_table_work/sub1/data_table_last.json?token=GHSAT0AAAAAACBJ2JQEKDWKCY3BRGJGCOW4ZDK2HYQ';
+    console.log('populate');
+    const requestURL = 'https://raw.githubusercontent.com/kanakanho/time_table_work/sub2/data_table_last.json';
     const request = new Request(requestURL);
 
     const response = await fetch(request);
@@ -10,35 +11,62 @@ async function populate() {
 
 function time_table(obj) {
     const table = document.querySelector('.table');
-    const tables = obj.day_main;
+    const tables = obj[0].day_main;
     for (const box of tables) {
+        console.log(box);
         const divDay = document.createElement('div');
         divDay.className = 'day';
-
-        const myArticle = document.createElement('article');
 
         const myPara1 = document.createElement('p');
         const myPara2 = document.createElement('p');
         const myPara3 = document.createElement('p');
         const myPara4 = document.createElement('p');
-        const myPara5 = document.createElement('p');
-        const myPara6 = document.createElement('p');
+        const myPara5 = document.createElement('a');
+        const br = document.createElement('br');
+        const myPara6 = document.createElement('a');
 
-        myPara1.textContent = `name: ${box.name}`;
-        myPara2.textContent = `teacher: ${box.teacher}`;
-        myPara3.textContent = `room: ${box.room}`;
-        myPara4.textContent = `book: ${box.book}`;
-        myPara5.textContent = `teams: ${box.teams}`;
-        myPara6.textContent = `moodle: ${box.moodle}`;
+        if (box.main[0].name === "月" || box.main[0].name === "火" || box.main[0].name === "水" || box.main[0].name === "木" || box.main[0].name === "金") {
+        } else {
+            myPara1.className = 'name';
+            myPara2.className = 'teacher';
+            myPara3.className = 'room';
+            myPara4.className = 'book';
+            myPara5.className = 'teams';
+            myPara6.className = 'moodle';
+        }
 
-        myArticle.appendChild(myPara1);
-        myArticle.appendChild(myPara2);
-        myArticle.appendChild(myPara3);
-        myArticle.appendChild(myPara4);
-        myArticle.appendChild(myPara5);
-        myArticle.appendChild(myPara6);
+        myPara1.textContent = `${box.main[0].name}`;
+        myPara2.textContent = `${box.main[0].teacher}`;
+        myPara3.textContent = `${box.main[0].room}`;
+        myPara4.textContent = `${box.main[0].book}`;
 
-        table.appendChild(myArticle);
+        if (box.main[0].teams === "") {
+            myPara5.textContent = "";
+        } else {
+            myPara5.textContent = "teams";
+            myPara5.href = box.main[0].teams;
+            myPara5.target = "_blank";
+        }
 
+        if (box.main[0].moodle === "") {
+            myPara6.textContent = "";
+        } else {
+            myPara6.textContent = "moodle";
+            myPara6.href = box.main[0].moodle;
+            myPara6.target = "_blank";
+        }
+
+
+        divDay.appendChild(myPara1);
+        divDay.appendChild(myPara2);
+        divDay.appendChild(myPara3);
+        divDay.appendChild(myPara4);
+        divDay.appendChild(myPara5);
+        divDay.appendChild(br);
+        divDay.appendChild(myPara6);
+
+        table.appendChild(divDay);
     }
 }
+
+populate();

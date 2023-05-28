@@ -7,8 +7,14 @@ body {
     padding: 0px;
 }
 
+p {
+    margin: 0px;
+    padding: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
 .table {
-    width: fit-content;
     margin-inline: auto;
 
     display: grid;
