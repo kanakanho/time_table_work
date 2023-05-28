@@ -1,5 +1,5 @@
 async function populate() {
-    const requestURL = 'https://github.com/kanakanho/time_table_work/raw/sub1/data_table_last.json';
+    const requestURL = 'https://raw.githubusercontent.com/kanakanho/time_table_work/sub1/data_table_last.json?token=GHSAT0AAAAAACBJ2JQEKDWKCY3BRGJGCOW4ZDK2HYQ';
     const request = new Request(requestURL);
 
     const response = await fetch(request);
@@ -9,9 +9,12 @@ async function populate() {
 }
 
 function time_table(obj) {
-    const section = document.querySelector('.day');
+    const table = document.querySelector('.table');
     const tables = obj.day_main;
     for (const box of tables) {
+        const divDay = document.createElement('div');
+        divDay.className = 'day';
+
         const myArticle = document.createElement('article');
 
         const myPara1 = document.createElement('p');
@@ -35,7 +38,7 @@ function time_table(obj) {
         myArticle.appendChild(myPara5);
         myArticle.appendChild(myPara6);
 
-        section.appendChild(myArticle);
+        table.appendChild(myArticle);
 
     }
 }
