@@ -93,10 +93,7 @@
                     {
                         "name": "キャリアデザイン",
                         "teacher": "澤野 弘明",
-                        "room": [
-                            "G2110（全体）",
-                            "4-404（チューター）"
-                        ],
+                        "room": "G2110（全）4-404（チ)",
                         "book": "",
                         "teams": "https://teams.microsoft.com/l/channel/19%3aVRKkez2_osxyeHKyasaRAJaOBVXTClwi4iSJjWh705Q1%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=2f34c548-9ef6-4774-8cff-49e6023a9d68&amp;tenantId=1dd4d0da-8011-41fc-889e-d7ee3fec9eb6",
                         "moodle": "https://cms.aitech.ac.jp/course/view.php?id=3969"
