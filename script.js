@@ -1,5 +1,4 @@
 async function populate() {
-    console.log('populate');
     const requestURL = 'https://raw.githubusercontent.com/kanakanho/time_table_work/sub2/data_table_last.json';
     const request = new Request(requestURL);
 
@@ -12,7 +11,9 @@ async function populate() {
 function time_table(obj) {
     const table = document.querySelector('.table');
     const tables = obj[0].day_main;
+    let count = 0;
     for (const box of tables) {
+        count++;
         console.log(box);
         const divDay = document.createElement('div');
         divDay.className = 'day';
@@ -25,7 +26,8 @@ function time_table(obj) {
         const br = document.createElement('br');
         const myPara6 = document.createElement('a');
 
-        if (box.main[0].name === "月" || box.main[0].name === "火" || box.main[0].name === "水" || box.main[0].name === "木" || box.main[0].name === "金") {
+
+        if (box.main[0].name === "月" || box.main[0].name === "火" || box.main[0].name === "水" || box.main[0].name === "木" || box.main[0].name === "金" || count <= 5) {
         } else {
             myPara1.className = 'name';
             myPara2.className = 'teacher';

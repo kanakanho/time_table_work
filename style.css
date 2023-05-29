@@ -40,6 +40,11 @@ p {
     line-height: 50px;
 }
 
+.day:nth-child(-n+5) {
+    text-align: center;
+    vertical-align: top;
+}
+
 .day {
     border: 1px solid black;
 }
