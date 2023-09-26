@@ -3,16 +3,7 @@
         "day_main": [
             {
                 "number": "0",
-                "main": [
-                    {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
-                        "book": "",
-                        "teams": "",
-                        "moodle": ""
-                    }
-                ]
+                "main": []
             },
             {
                 "number": "I",
@@ -106,16 +97,7 @@
             },
             {
                 "number": "IV",
-                "main": [
-                    {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
-                        "book": "",
-                        "teams": "",
-                        "moodle": ""
-                    }
-                ]
+                "main": []
             },
             {
                 "number": "0",
@@ -128,14 +110,6 @@
             {
                 "number": "I",
                 "main": [
-                    {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
-                        "book": "",
-                        "teams": "",
-                        "moodle": ""
-                    }
                 ]
             },
             {
@@ -227,14 +201,6 @@
             {
                 "number": "IV",
                 "main": [
-                    {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
-                        "book": "",
-                        "teams": "",
-                        "moodle": ""
-                    }
                 ]
             },
             {
@@ -287,14 +253,6 @@
             {
                 "number": "IV",
                 "main": [
-                    {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
-                        "book": "",
-                        "teams": "",
-                        "moodle": ""
-                    }
                 ]
             },
             {
@@ -308,40 +266,16 @@
             {
                 "number": "I",
                 "main": [
-                    {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
-                        "book": "",
-                        "teams": "",
-                        "moodle": ""
-                    }
                 ]
             },
             {
                 "number": "II",
                 "main": [
-                    {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
-                        "book": "",
-                        "teams": "",
-                        "moodle": ""
-                    }
                 ]
             },
             {
                 "number": "III",
                 "main": [
-                    {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
-                        "book": "",
-                        "teams": "",
-                        "moodle": ""
-                    }
                 ]
             },
             {

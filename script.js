@@ -1,5 +1,5 @@
 async function populate() {
-    const requestURL = "https://raw.githubusercontent.com/kanakanho/time_table_work/main/1_2.json";
+    const requestURL = "https://time-table-work.vercel.app/1_2.json";
     const request = new Request(requestURL);
 
     const response = await fetch(request);
