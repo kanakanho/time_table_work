@@ -1,0 +1,371 @@
+[
+    {
+        "day_main": [
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "I限",
+                        "teacher": "9:00",
+                        "room": "10:30",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "II限",
+                        "teacher": "10:40",
+                        "room": "12:10",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "III限",
+                        "teacher": "13:00",
+                        "room": "14:30",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "IV限",
+                        "teacher": "14:40",
+                        "room": "16:10",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "月"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "Ｗｅｂプログラミング基礎",
+                        "teacher": "水野 勝教",
+                        "room": "1-502",
+                        "book": "JavaScript",
+                        "teams": "",
+                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=790"
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "日本語リテラシ",
+                        "teacher": "服部 友香",
+                        "room": "G3402",
+                        "book": "",
+                        "teams": "",
+                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4233"
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "火"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "CED",
+                        "teacher": "太田 晶子",
+                        "room": "G3302",
+                        "book": "",
+                        "teams": "https://teams.microsoft.com/_#/school/conversations/%E4%B8%80%E8%88%AC?threadId=19:hJlsuQxfck5yMr9k-eRU33x4k6RkfUGZPYZUm3DY8XE1@thread.tacv2&ctx=channel",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "線形代数2",
+                        "teacher": "松本 耕二",
+                        "room": "G151",
+                        "book": "ベクトルと行列",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "CEB",
+                        "teacher": "ボデル マーク",
+                        "room": "G3403",
+                        "book": "ManyThings",
+                        "teams": "",
+                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=3871"
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "水"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "現代社会と法",
+                        "teacher": "松原 信継",
+                        "room": "G151",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "物理学（力学）",
+                        "teacher": "古賀 実",
+                        "room": "1-501",
+                        "book": "力学講義ノート",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "木"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "プログラミング及び演習2",
+                        "teacher": "河辺 義信",
+                        "room": "K404",
+                        "book": "",
+                        "teams": "",
+                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=3933"
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "プログラミング及び演習2",
+                        "teacher": "河辺 義信",
+                        "room": "K404",
+                        "book": "",
+                        "teams": "",
+                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=3933"
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "微分積分2",
+                        "teacher": "真島 一成",
+                        "room": "G2409",
+                        "book": "微分積分2",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "金"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "健康・スポーツ科学実習1",
+                        "teacher": "中野",
+                        "room": "体育館",
+                        "book": "体操服・靴",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
