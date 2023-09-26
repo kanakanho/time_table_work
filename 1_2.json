@@ -3,7 +3,16 @@
         "day_main": [
             {
                 "number": "0",
-                "main": []
+                "main": [
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
             },
             {
                 "number": "I",
@@ -67,7 +76,16 @@
             },
             {
                 "number": "I",
-                "main": []
+                "main": [
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
             },
             {
                 "number": "II",
@@ -97,7 +115,16 @@
             },
             {
                 "number": "IV",
-                "main": []
+                "main": [
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
             },
             {
                 "number": "0",
@@ -110,7 +137,14 @@
             {
                 "number": "I",
                 "main": [
-                ]
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }]
             },
             {
                 "number": "II",
@@ -201,7 +235,14 @@
             {
                 "number": "IV",
                 "main": [
-                ]
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }]
             },
             {
                 "number": "0",
@@ -253,7 +294,14 @@
             {
                 "number": "IV",
                 "main": [
-                ]
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }]
             },
             {
                 "number": "0",
@@ -266,17 +314,38 @@
             {
                 "number": "I",
                 "main": [
-                ]
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }]
             },
             {
                 "number": "II",
                 "main": [
-                ]
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }]
             },
             {
                 "number": "III",
                 "main": [
-                ]
+                    {
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }]
             },
             {
                 "number": "IV",
