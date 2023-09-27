@@ -78,9 +78,9 @@
                 "number": "I",
                 "main": [
                     {
-                        "name": "情報数学２",
-                        "teacher": "鈴木 晋",
-                        "room": "G251",
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
                         "book": "",
                         "teams": "",
                         "moodle": ""
@@ -213,7 +213,7 @@
                     {
                         "name": "物理学（力学）",
                         "teacher": "古賀 実",
-                        "room": "1-501",
+                        "room": "G3303",
                         "book": "力学講義ノート",
                         "teams": "",
                         "moodle": ""
@@ -224,9 +224,9 @@
                 "number": "III",
                 "main": [
                     {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
+                        "name": "情報数学２",
+                        "teacher": "鈴木 晋",
+                        "room": "G251",
                         "book": "",
                         "teams": "",
                         "moodle": ""
