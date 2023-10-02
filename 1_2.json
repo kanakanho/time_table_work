@@ -93,7 +93,7 @@
                     {
                         "name": "Ｗｅｂプログラミング基礎",
                         "teacher": "水野 勝教",
-                        "room": "1-502",
+                        "room": "11-201",
                         "book": "JavaScript",
                         "teams": "",
                         "moodle": "https://cms.aitech.ac.jp/course/view.php?id=790"
@@ -117,9 +117,9 @@
                 "number": "IV",
                 "main": [
                     {
-                        "name": "情報数学２",
-                        "teacher": "鈴木 晋",
-                        "room": "G251",
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
                         "book": "",
                         "teams": "",
                         "moodle": ""
@@ -263,7 +263,7 @@
                         "room": "K404",
                         "book": "",
                         "teams": "",
-                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=3933"
+                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4191"
                     }
                 ]
             },
@@ -276,7 +276,7 @@
                         "room": "K404",
                         "book": "",
                         "teams": "",
-                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=3933"
+                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4191"
                     }
                 ]
             },
