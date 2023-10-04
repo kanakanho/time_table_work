@@ -153,7 +153,7 @@
                     {
                         "name": "CED",
                         "teacher": "太田 晶子",
-                        "room": "G3302",
+                        "room": "G3301",
                         "book": "",
                         "teams": "https://teams.microsoft.com/_#/school/conversations/%E4%B8%80%E8%88%AC?threadId=19:hJlsuQxfck5yMr9k-eRU33x4k6RkfUGZPYZUm3DY8XE1@thread.tacv2&ctx=channel",
                         "moodle": ""
@@ -166,7 +166,7 @@
                     {
                         "name": "線形代数2",
                         "teacher": "松本 耕二",
-                        "room": "G151",
+                        "room": "G152",
                         "book": "ベクトルと行列",
                         "teams": "",
                         "moodle": ""
