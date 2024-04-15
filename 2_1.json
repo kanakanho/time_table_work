@@ -92,8 +92,8 @@
                 "main": [
                     {
                         "name": "フランス語",
-                        "teacher": "",
-                        "room": "",
+                        "teacher": "河津 邦喜",
+                        "room": "G2409",
                         "book": "",
                         "teams": "",
                         "moodle": ""
@@ -323,9 +323,9 @@
                 "number": "II",
                 "main": [
                     {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
+                        "name": "日本国憲法",
+                        "teacher": "日比 拓也",
+                        "room": "G2208",
                         "book": "",
                         "teams": "",
                         "moodle": ""
@@ -362,9 +362,9 @@
                 "number": "V",
                 "main": [
                     {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
+                        "name": "ものづくり文化",
+                        "teacher": "井上 智之",
+                        "room": "G2210",
                         "book": "",
                         "teams": "",
                         "moodle": ""
@@ -383,9 +383,9 @@
                 "number": "I",
                 "main": [
                     {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
+                        "name": "英語圏のことばと文化Ｂ",
+                        "teacher": "石塚 杏樹",
+                        "room": "G3302",
                         "book": "",
                         "teams": "",
                         "moodle": ""
@@ -396,9 +396,9 @@
                 "number": "II",
                 "main": [
                     {
-                        "name": "",
-                        "teacher": "",
-                        "room": "",
+                        "name": "人間性の探究",
+                        "teacher": "松野 充貴",
+                        "room": "G3502",
                         "book": "",
                         "teams": "",
                         "moodle": ""
