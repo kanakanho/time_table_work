@@ -1,0 +1,449 @@
+[
+    {
+        "day_main": [
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "I限",
+                        "teacher": "9:00",
+                        "room": "10:30",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "II限",
+                        "teacher": "10:40",
+                        "room": "12:10",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "III限",
+                        "teacher": "13:00",
+                        "room": "14:30",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "IV限",
+                        "teacher": "14:40",
+                        "room": "16:10",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "V",
+                "main": [
+                    {
+                        "name": "V限",
+                        "teacher": "16:20",
+                        "room": "17:50",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "月"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "フランス語",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "物理学（電磁気学）",
+                        "teacher": "村中 正",
+                        "room": "G3301",
+                        "book": "電磁気学  講義ノート",
+                        "teams": "",
+                        "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4352"
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "キャリア意識形成",
+                        "teacher": "金指 朋代･水野 勝教",
+                        "room": "G3403",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "V",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "火"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "コンピュータアーキテクチャ1",
+                        "teacher": "伊藤 暢浩 ",
+                        "room": "G2209",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "V",
+                "main": [
+                    {
+                        "name": "プロジェクト演習１",
+                        "teacher": "伊藤 暢浩･菱田 隆彰",
+                        "room": "14-101",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "水"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "画像処理及び演習",
+                        "teacher": "塚田,森本,澤野 ",
+                        "room": "1-303",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "画像処理及び演習",
+                        "teacher": "塚田,森本,澤野 ",
+                        "room": "1-303",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "人工知能",
+                        "teacher": "中村 栄治",
+                        "room": "G2210",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "コンピュータネットワーク",
+                        "teacher": "水野 勝教",
+                        "room": "1-502",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "V",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "木"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "オブジェクト指向プログラミング及び演習１",
+                        "teacher": "内種 岳詞･永谷 栄宏",
+                        "room": "1-401",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "オブジェクト指向プログラミング及び演習１",
+                        "teacher": "内種 岳詞･永谷 栄宏",
+                        "room": "1-401",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "V",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "0",
+                "main": [
+                    {
+                        "name": "金"
+                    }
+                ]
+            },
+            {
+                "number": "I",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "II",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "III",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "IV",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            },
+            {
+                "number": "V",
+                "main": [
+                    {
+                        "name": "",
+                        "teacher": "",
+                        "room": "",
+                        "book": "",
+                        "teams": "",
+                        "moodle": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

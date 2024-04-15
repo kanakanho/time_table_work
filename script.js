@@ -1,5 +1,7 @@
 async function populate() {
-    const requestURL = "https://time-table-work.vercel.app/1_2.json";
+    const jsonPath = "2_1";
+    // const requestURL = "https://time-table-work.vercel.app/" + jsonPath + ".json";
+    const requestURL = "http://127.0.0.1:5500/2_1.json";
     const request = new Request(requestURL);
 
     const response = await fetch(request);
@@ -23,7 +25,6 @@ function time_table(obj) {
         const myPara3 = document.createElement("p");
         const myPara4 = document.createElement("p");
         const myPara5 = document.createElement("a");
-        const br = document.createElement("br");
         const myPara6 = document.createElement("a");
 
         if (
@@ -32,7 +33,7 @@ function time_table(obj) {
             box.main[0].name === "水" ||
             box.main[0].name === "木" ||
             box.main[0].name === "金" ||
-            count <= 5
+            count <= 6
         ) {
         } else {
             myPara1.className = "name";
@@ -69,7 +70,6 @@ function time_table(obj) {
         divDay.appendChild(myPara3);
         divDay.appendChild(myPara4);
         divDay.appendChild(myPara5);
-        divDay.appendChild(br);
         divDay.appendChild(myPara6);
 
         table.appendChild(divDay);

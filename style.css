@@ -15,13 +15,17 @@ p {
     overflow: hidden;
 }
 
+a {
+    display: block;
+}
+
 .table {
     margin-inline: auto;
 
     display: grid;
     grid-auto-flow: column;
     grid-template-columns: 75px repeat(5, minmax(200px, 1fr));
-    grid-template-rows: 50px repeat(4, calc(17.5rem + 10px));
+    grid-template-rows: 50px repeat(5, calc(17.5rem + 10px));
 }
 
 .day {
@@ -30,7 +34,7 @@ p {
     font-size: 1.6rem;
 }
 
-.day:nth-child(5n +1) {
+.day:nth-child(6n + 1) {
     padding: 0px;
     font-size: 2rem;
 
@@ -39,7 +43,7 @@ p {
     line-height: 50px;
 }
 
-.day:nth-child(-n+5) {
+.day:nth-child(-n + 6) {
     text-align: center;
     vertical-align: top;
 }
@@ -69,7 +73,7 @@ p {
 
 .book {
     height: 2.5rem;
-    color: #12C812;
+    color: #12c812;
 }
 
 .teams {
