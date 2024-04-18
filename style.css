@@ -5,7 +5,6 @@ html {
 body {
     margin: 2px;
     padding: 0px;
-    border: 1px solid black;
 }
 
 p {
@@ -24,8 +23,11 @@ a {
 
     display: grid;
     grid-auto-flow: column;
-    grid-template-columns: 75px repeat(5, minmax(200px, 1fr));
-    grid-template-rows: 50px repeat(5, calc(17.5rem + 10px));
+    grid-template-columns: 75px repeat(5, minmax(100px, 1fr));
+    grid-template-rows: 50px repeat(5, calc(16rem));
+
+    border: 1px solid black;
+    overflow: scroll;
 }
 
 .day {
