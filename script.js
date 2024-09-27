@@ -1,13 +1,44 @@
 async function populate() {
-    const jsonPath = "2_1";
-    const requestURL = "https://time-table-work.vercel.app/" + jsonPath + ".json";
-    // const requestURL = "http://127.0.0.1:5500/2_1.json";
-    const request = new Request(requestURL);
+    let jsonPath;
 
-    const response = await fetch(request);
-    const table = await response.json();
+    const setTable = isSetTable();
+
+    if (setTable !== "") {
+        jsonPath = setTable;
+    } else {
+        jsonPath = "table";
+    }
+    
+    const table = await existTable(jsonPath);
 
     time_table(table);
+}
+
+function isSetTable() {
+    const url = new URL(decodeURIComponent(document.location.href)).searchParams.get("set");
+    // nullの場合はfalseを返す
+    if (url === null) {
+        return "";
+    }
+    return url
+}
+
+async function existTable(jsonPath) {
+    let table = {};
+    if (localStorage.getItem(jsonPath) === null) {
+        // const requestURL = `https://time-table-work.vercel.app/${jsonPath}.json`;
+        const requestURL = `http://127.0.0.1:5500/${jsonPath}.json`;
+        const request = new Request(requestURL);
+    
+        const response = await fetch(request);
+        table = await response.json();
+
+        localStorage.setItem("table", JSON.stringify(table));
+        localStorage.setItem(jsonPath, JSON.stringify(table));
+    } else {
+        table = JSON.parse(localStorage.getItem(jsonPath));
+    }
+    return table;
 }
 
 function time_table(obj) {

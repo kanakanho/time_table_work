@@ -1,0 +1,449 @@
+[
+  {
+    "day_main": [
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "I限",
+            "teacher": "9:00",
+            "room": "10:30",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "II限",
+            "teacher": "10:40",
+            "room": "12:10",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "III限",
+            "teacher": "13:00",
+            "room": "14:30",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "IV限",
+            "teacher": "14:40",
+            "room": "16:10",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "V限",
+            "teacher": "16:20",
+            "room": "17:50",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "月"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "火"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "数値計算",
+            "teacher": "中條 直也",
+            "room": "1-502",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "プロジェクト演習2",
+            "teacher": "伊藤 謙浩、菅田 隆彰",
+            "room": "14-202",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "水"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "幾何学",
+            "teacher": "柳井 裕道",
+            "room": "1-502",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "確率統計",
+            "teacher": "内藤 岳詞",
+            "room": "1-501",
+            "book": "",
+            "teams": "https://teams.microsoft.com/_#/school/conversations/%E4%B8%80%E8%88%AC?threadId=19:7memKb_rMFFaP7K--HwhXynxiCf3RUN6-G2hdr1d_Cc1@thread.tacv2&ctx=channel",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4692"
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "情報システム概論",
+            "teacher": "梶 克彦",
+            "room": "G2210",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4693"
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "木"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "オペレーティングシステム",
+            "teacher": "菱田 隆彰",
+            "room": "G2210",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "コミュニケーション論",
+            "teacher": "小栗 真珠",
+            "room": "14-201",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4653"
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "オブジェクト指向プログラミング及び演習2",
+            "teacher": "内種 岳詞、永谷 栄宏",
+            "room": "1-501",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4701"
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "オブジェクト指向プログラミング及び演習2",
+            "teacher": "内種 岳詞、永谷 栄宏",
+            "room": "1-501",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4701"
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "金"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "現代の経済",
+            "teacher": "井上 智之",
+            "room": "G2507",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "物理実験",
+            "teacher": "村中 正一、伊藤 祐一",
+            "room": "10号館 6-7F",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4595"
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "物理実験",
+            "teacher": "村中 正一、伊藤 祐一",
+            "room": "10号館 6-7F",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4595"
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "モバイルネットワーク",
+            "teacher": "内藤 洋治",
+            "room": "G2210",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4710"
+          }
+        ]
+      }
+    ]
+  }
+]
