@@ -26,8 +26,8 @@ function isSetTable() {
 async function existTable(jsonPath) {
     let table = {};
     if (localStorage.getItem(jsonPath) === null) {
-        // const requestURL = `https://time-table-work.vercel.app/${jsonPath}.json`;
-        const requestURL = `http://127.0.0.1:5500/${jsonPath}.json`;
+        const requestURL = `https://time-table-work.vercel.app/${jsonPath}.json`;
+        // const requestURL = `http://127.0.0.1:5500/${jsonPath}.json`;
         const request = new Request(requestURL);
     
         const response = await fetch(request);
