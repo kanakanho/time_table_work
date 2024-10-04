@@ -15,10 +15,8 @@
   </body>
   <script>
     async function existTable(jsonPath) {
-      const jsonPath = "2_2";
-
       let table = {};
-			const requestURL = `https://time-table-work.vercel.app/${jsonPath}.json`;
+      const requestURL = `https://time-table-work.vercel.app/${jsonPath}.json`;
       // const requestURL = `http://127.0.0.1:5500/${jsonPath}.json`;
       const request = new Request(requestURL);
 
@@ -32,6 +30,7 @@
     }
 
     async function init() {
+      const jsonPath = "2_2";
       await existTable(jsonPath);
     }
 
