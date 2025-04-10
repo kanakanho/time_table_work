@@ -1,0 +1,449 @@
+[
+  {
+    "day_main": [
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "I限",
+            "teacher": "9:00",
+            "room": "10:30",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "II限",
+            "teacher": "10:40",
+            "room": "12:10",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "III限",
+            "teacher": "13:00",
+            "room": "14:30",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "IV限",
+            "teacher": "14:40",
+            "room": "16:10",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "V限",
+            "teacher": "16:20",
+            "room": "17:50",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "月"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "言語理論およびコンパイラ",
+            "teacher": "",
+            "room": "14-302",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "火"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "セミナー",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "ゲームプログラミング",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "映像処理",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "映像処理",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "水"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "カラーデザイン",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "木"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "マイコン",
+            "teacher": "マイコン室1",
+            "room": "",
+            "book": "",
+            "teams": "https://teams.microsoft.com/l/team/19%3aC5eulH-VSpBvQdHQSgAlwUsDzqLs2cBfLbAEm1Mh70o1%40thread.tacv2/conversations?groupId=36f32881-23d0-43c4-9efb-ab9d729b6f42&tenantId=1dd4d0da-8011-41fc-889e-d7ee3fec9eb6",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "マイコン",
+            "teacher": "マイコン室1",
+            "room": "",
+            "book": "",
+            "teams": "https://teams.microsoft.com/l/team/19%3aC5eulH-VSpBvQdHQSgAlwUsDzqLs2cBfLbAEm1Mh70o1%40thread.tacv2/conversations?groupId=36f32881-23d0-43c4-9efb-ab9d729b6f42&tenantId=1dd4d0da-8011-41fc-889e-d7ee3fec9eb6",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "経済基礎知識",
+            "teacher": "",
+            "room": "G2310",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/enrol/index.php?id=4968"
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "組み込みシステム概論",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4867"
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "0",
+        "main": [
+          {
+            "name": "金"
+          }
+        ]
+      },
+      {
+        "number": "I",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "II",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "III",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "IV",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "main": [
+          {
+            "name": "",
+            "teacher": "",
+            "room": "",
+            "book": "",
+            "teams": "",
+            "moodle": ""
+          }
+        ]
+      }
+    ]
+  }
+]
