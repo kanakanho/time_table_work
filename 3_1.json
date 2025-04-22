@@ -169,7 +169,7 @@
             "room": "",
             "book": "",
             "teams": "",
-            "moodle": ""
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4804"
           }
         ]
       },
@@ -182,7 +182,7 @@
             "room": "",
             "book": "",
             "teams": "",
-            "moodle": ""
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=4985"
           }
         ]
       },
@@ -195,7 +195,7 @@
             "room": "",
             "book": "",
             "teams": "",
-            "moodle": ""
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=5020"
           }
         ]
       },
@@ -208,7 +208,7 @@
             "room": "",
             "book": "",
             "teams": "",
-            "moodle": ""
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=5020"
           }
         ]
       },
@@ -289,12 +289,12 @@
         "number": "V",
         "main": [
           {
-            "name": "",
+            "name": "ソフトウェア工学",
             "teacher": "",
             "room": "",
             "book": "",
             "teams": "",
-            "moodle": ""
+            "moodle": "https://cms.aitech.ac.jp/course/view.php?id=5026"
           }
         ]
       },
